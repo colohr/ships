@@ -1,0 +1,19 @@
+{
+  "name": "ships",
+  "version": "0.0.1",
+  "description": "Testing Tools",
+  "main": "package/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/ships.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/ships/issues"
+  },
+  "homepage": "https://github.com/colohr/ships#readme"
+}
